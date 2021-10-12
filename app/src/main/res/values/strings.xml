@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NewLightDarkWeather</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hourly">Hourly :</string>
+    <string name="daily">Daily :</string>
+    <string name="vw_rationale_storage" translatable="false">Need Location Permission for getting current location.</string>
+
+    <string name="day_description">Be prepared for the week with the weather forecast for the next 15 days with information.</string>
+    <string name="search_description">Find The Area or city that you want to know the detailed weather info at this time</string>
+    <string name="no_internet_connection">No Internet Connection.</string>
+
+    <string name="email">rita116.navadiya@gmail.com</string>
+    <string name="privacy_policy">https://darkweatherprivacypolicy.blogspot.com/2021/07/privacy-policy.html</string>
+</resources>
